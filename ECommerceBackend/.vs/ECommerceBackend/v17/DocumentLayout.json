@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5101543-27F8-4FC9-B0C6-F7057108B1BC}|ECommerceTest\\ECommerceTest.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5101543-27F8-4FC9-B0C6-F7057108B1BC}|ECommerceTest\\ECommerceTest.csproj|solutionrelative:ecommercetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5101543-27F8-4FC9-B0C6-F7057108B1BC}|ECommerceTest\\ECommerceTest.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercetest\\ecommercetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5101543-27F8-4FC9-B0C6-F7057108B1BC}|ECommerceTest\\ECommerceTest.csproj|solutionrelative:ecommercetest\\ecommercetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\ecommercebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\ecommercebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\dtos\\productadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\dtos\\productadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\controllers\\dappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\dappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|c:\\users\\oussama\\desktop\\miniamazonclonetask\\ecommercebackend\\ecommercebackend\\services\\dapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688D15A4-231C-4897-91A8-3D40BA7BEAA2}|ECommerceBackend\\ECommerceBackend.csproj|solutionrelative:ecommercebackend\\services\\dapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Models\\Order.cs",
+              "RelativeToolTip": "ECommerceBackend\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:30:55.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ECommerceBackend\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:31:12.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Models\\User.cs",
+              "RelativeToolTip": "ECommerceBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:30:06.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Dtos\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Dtos\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Dtos\\OrderCreateDto.cs",
+              "RelativeToolTip": "ECommerceBackend\\Dtos\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:37:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ECommerceBackend\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:37:48.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECommerceTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceTest\\ECommerceTest.csproj",
+              "RelativeDocumentMoniker": "ECommerceTest\\ECommerceTest.csproj",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceTest\\ECommerceTest.csproj",
+              "RelativeToolTip": "ECommerceTest\\ECommerceTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T00:32:26.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Program.cs",
+              "RelativeToolTip": "ECommerceBackend\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:35:45.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerceBackend\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:30:36.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ECommerceTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceTest\\UnitTest1.cs",
+              "RelativeToolTip": "ECommerceTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:31:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "ECommerceBackend\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:07:27.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ECommerceBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\ECommerceBackend.csproj",
+              "RelativeDocumentMoniker": "ECommerceBackend\\ECommerceBackend.csproj",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\ECommerceBackend.csproj",
+              "RelativeToolTip": "ECommerceBackend\\ECommerceBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T23:31:21.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Dtos\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Dtos\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Dtos\\ProductUpdateDto.cs",
+              "RelativeToolTip": "ECommerceBackend\\Dtos\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:09:21.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ECommerceBackend\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:57:46.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Dtos\\ProductAddDto.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Dtos\\ProductAddDto.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Dtos\\ProductAddDto.cs",
+              "RelativeToolTip": "ECommerceBackend\\Dtos\\ProductAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:36:41.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ECommerceBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAEBTwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:31:37.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DapperController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Controllers\\DapperController.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Controllers\\DapperController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Controllers\\DapperController.cs",
+              "RelativeToolTip": "ECommerceBackend\\Controllers\\DapperController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:01:08.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ECommerceBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:14:20.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\appsettings.json",
+              "RelativeToolTip": "ECommerceBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T23:38:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Services\\JwtService.cs",
+              "RelativeToolTip": "ECommerceBackend\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:02:26.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerceBackend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:52:51.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DapperService.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Services\\DapperService.cs",
+              "RelativeDocumentMoniker": "ECommerceBackend\\Services\\DapperService.cs",
+              "ToolTip": "C:\\Users\\Oussama\\Desktop\\MiniAmazonCloneTask\\ECommerceBackend\\ECommerceBackend\\Services\\DapperService.cs",
+              "RelativeToolTip": "ECommerceBackend\\Services\\DapperService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:00:11.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
